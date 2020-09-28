@@ -1,3 +1,4 @@
+'''Given an unsorted array and a number n, find if there exists a pair of elements in the array whose difference is n.'''
 def pair(arr, n, difference):
     arr.sort()
     i, j = 0, 1
