@@ -1,3 +1,6 @@
+'''Given an array of DISTINCT elements, rearrange the elements of array in zig-zag
+fashion in O(n) time. The converted array should be in form a < b > c < d > e < f. '''
+
 def zigzagarray(arr):
     i = 0
     j = 1
