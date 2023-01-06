@@ -7,7 +7,7 @@ class hello {
 		for(int j=0; j<i; j++) {
 			System.out.println("hello " + j);
 		}
-
+		System.out.println("hello");
 	}
 
 	public static void main(String[] args) {
